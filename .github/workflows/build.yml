@@ -12,7 +12,7 @@ on:
     paths-ignore:
       - '**/README.md'
 env:
-    IMAGE_NAME: lzblue
+    IMAGE_NAME: lazyway
     IMAGE_REGISTRY: ghcr.io/${{ github.repository_owner }}
 
 jobs:
